@@ -1,17 +1,3 @@
- 
-AAYUSH KAPIL
-CS21-01
-
-                                        PROJECT 1 (COUNTDOWN TIMER)
-
-
-
-
-PROG :-  Build a countdown timer using the time Python module.
-
-
-SOLUTION :-
-
  # import the time module
 import time
 
